@@ -63,3 +63,4 @@ for branch commits and merges
 ✦ git commit -m “message” – создание коммита.
 ✦ git pull – получение изменений и слияние с локальной версией
 ✦ git push – отправляет локальную версию репозитория на внешний
+branch4 commit 1
