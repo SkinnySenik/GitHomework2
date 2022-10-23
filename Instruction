@@ -64,3 +64,4 @@ for branch commits and merges
 ✦ git pull – получение изменений и слияние с локальной версией
 ✦ git push – отправляет локальную версию репозитория на внешний
 master commit 6
+branch4 commit 1
